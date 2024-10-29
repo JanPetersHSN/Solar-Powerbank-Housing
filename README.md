@@ -1,4 +1,4 @@
-# Solarlade-Powerbank Gehäuse - Laser-Cut Dateien
+# Solarlade-Powerbank Gehäusedesign für Lasercutter und Bauanleitung
 
 Dieses Repository enthält DXF- und PDF-Dateien, die das Design für ein Gehäuse einer Solarlade-Powerbank zum Laserschneiden aus Holz bereitstellen, sowie eine Google Drive Link, der die Bauanleitung der Solarlade-Powerbank beinhaltet.
 
