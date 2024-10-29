@@ -11,4 +11,4 @@ https://drive.google.com/file/d/1qnoQl3b7NFdmINcj3U2Hvev0It0O2IR7/view?usp=shari
 
 ## Lizenz
 
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE). Weitere Informationen zur Lizenz findest du in der Lizenzdatei.
+Dieses Projekt steht unter der [MIT-Lizenz]. Weitere Informationen zur Lizenz findest du in der Lizenzdatei.
